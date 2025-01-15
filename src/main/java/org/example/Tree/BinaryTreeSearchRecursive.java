@@ -10,6 +10,19 @@ public class BinaryTreeSearchRecursive {
     // Depth how many node to travel to reach
     // The node which has MAX two child called as Binary Tree
 
+
+    // tree => insertion, delect, search in O(logn) do tree should use
+    //      => ordered storage => bonary search tree
+    //      => cost effienct due to the order
+
+//    limitation is unbalanced tree O(N) => means only one side it has value
+
+    // so sovle the unbalced tree => by self blanced tree
+
+
+    // use case in real word
+    // file system
+//    databases, algorithems, networking..maths, DTS, compression of files, future DTS
     public class Node {
 
         int data;
