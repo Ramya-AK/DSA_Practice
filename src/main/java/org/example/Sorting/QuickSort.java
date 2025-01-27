@@ -13,7 +13,7 @@ public class QuickSort {
 
     // Mainly get the pivot and sort the value below pivot to lesser and after pivot to higher
     // pivot used to get the partition of the array so that we can sort the value according to that
-    // take a i less than the low value and increment if it is satifies the confition and at the last increment i value and add the pivot
+    // take a i less than the low value and increment if it is satifies the condition and at the last increment i value and add the pivot
     // this means below pivot is always the lower value
 
 
