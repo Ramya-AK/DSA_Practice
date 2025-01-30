@@ -18,6 +18,8 @@ public class CountSort {
 
     static public void counting() {
         int [] arry = {1,3,3,2,4,5,3,7,1,4,5,9};
+        System.out.println(arry.length);
+        System.out.println(arry[arry.length - 1]);
         int maxValue = arry[0];
         for (int max: arry) {
             if(maxValue < max) {
